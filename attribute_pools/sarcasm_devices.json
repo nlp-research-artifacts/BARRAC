@@ -1,0 +1,99 @@
+{
+  "economy": [
+    "verbal_irony",
+    "hyperbole",
+    "mock_praise",
+    "understatement",
+    "sarcastic_question",
+    "facetious_comparison",
+    "direct_statement"
+  ],
+  "sports": [
+    "verbal_irony",
+    "hyperbole",
+    "mock_praise",
+    "understatement",
+    "rhetorical_question",
+    "echoic_mention",
+    "parodic_imitation",
+    "direct_statement"
+  ],
+  "health": [
+    "verbal_irony",
+    "mock_praise",
+    "understatement",
+    "exaggerated_concern",
+    "sarcastic_question",
+    "paradoxical_statement",
+    "feigned_naivety",
+    "direct_statement"
+  ],
+  "environment": [
+    "verbal_irony",
+    "hyperbole",
+    "mock_praise",
+    "understatement",
+    "sarcastic_question",
+    "paradoxical_statement",
+    "absurd_comparison",
+    "direct_statement"
+  ],
+  "entertainment": [
+    "verbal_irony",
+    "hyperbole",
+    "mock_praise",
+    "understatement",
+    "parodic_comparison",
+    "sarcastic_question",
+    "direct_statement"
+  ],
+  "transportation": [
+    "verbal_irony",
+    "hyperbole",
+    "mock_praise",
+    "understatement",
+    "rhetorical_question",
+    "mock_apology",
+    "feigned_naivety",
+    "direct_statement"
+  ],
+  "government services and infrastructure": [
+    "direct_statement",
+    "verbal_irony",
+    "hyperbole",
+    "mock_praise",
+    "facetious_question",
+    "juxtaposition"
+  ],
+  "technology and the internet": [
+    "verbal_irony",
+    "hyperbole",
+    "understatement",
+    "parody",
+    "feigned_naivety",
+    "facetious_question",
+    "reverse_blame",
+    "mock_apology",
+    "direct_statement"
+  ],
+  "education": [
+    "direct_statement",
+    "verbal_irony",
+    "hyperbole",
+    "mock_praise",
+    "understatement",
+    "facetious_question",
+    "sarcastic_comparison"
+  ],
+  "food": [
+    "verbal_irony",
+    "hyperbole",
+    "mock_praise",
+    "understatement",
+    "mock_disappointment",
+    "facetious_question",
+    "sarcastic_agreement",
+    "comparison_to_opposite",
+    "direct_statement"
+  ]
+}
